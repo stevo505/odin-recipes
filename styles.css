@@ -1,0 +1,63 @@
+.recipes {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 38px;
+    padding: 0;
+    width: 100%;
+}
+.home {
+    padding-bottom: 20px
+}
+h1 {
+    text-align: center;
+    margin-top: 180px;
+    font-size: 75px;
+    color: rgb(252, 240, 202);
+    font-family: Luminari;
+}
+h2 {
+    margin: auto;
+    text-align: center;
+    position: relative;
+    font-size: 55px;
+    display: block;
+    color: rgb(252, 240, 202);
+    font-family: Luminari;
+}
+h3 {
+    margin: 0px auto;
+    font-size: 25px;
+    display: block;
+    color: rgb(252, 240, 202);
+    font-family: Luminari;
+}
+body {
+    background-image: linear-gradient(to bottom right, rgba(149, 46, 204, 0.6), rgba(170, 159, 34, 0.763)),  url(https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_500,q_75,w_1400/v1/clients/neworleans/NOTMC_46154_cb61cb1b-1c7e-4e2c-b014-fd1fad3310e2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: auto;
+    color: white;
+    font-family: Tahoma;
+    max-width: 800px;
+    min-width: 300px
+}
+#container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: rgba(63, 7, 96, .87);
+    padding: 40px;
+    border-radius: 10px;
+}
+a {
+    color: white;
+}
+img {
+   margin-top: 20px;
+   margin-bottom: 20px;
+   max-height: 500px;
+   width: 100%;
+   text-align: center;
+}
+
